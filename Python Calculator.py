@@ -14,6 +14,10 @@ def division(num_1, num_2):
     divide = num_1 / num_2
     return divide
 
+print("====================")
+print("     CALCULATOR     ")
+print("====================")
+
 
 choice = ""
 while True:
